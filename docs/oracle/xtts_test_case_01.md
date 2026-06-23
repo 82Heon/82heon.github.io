@@ -1,10 +1,10 @@
 ---
-title: XTTS 헬퍼 스크립트 (AIX to LINUX)
+title: xtts_test_case (AIX to LINUX)
 parent: Oracle
 nav_order: 1
 ---
 
-{: toc}
+{:toc}
 
 # 개요
 ## XTTS?
