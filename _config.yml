@@ -128,9 +128,9 @@ nav_enabled: true
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: My Oralce Database Blog
-    url: https://82heon.github.io
+# nav_external_links:
+#   - title: My Oralce Database Blog
+#     url: https://82heon.github.io
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
