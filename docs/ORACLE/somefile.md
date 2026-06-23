@@ -1,7 +1,7 @@
 ---
 title: My New Blog
-parent: ORACLE
+parent: Oracle
 nav_order: 1
 ---
 
-# Hello
+# Hello My World
